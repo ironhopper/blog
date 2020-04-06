@@ -1,11 +1,14 @@
 ---
-title: "Test1"
-date: 2020-04-06T16:36:16+09:00
+title: "Test3"
+date: 2020-04-06T21:24:45+09:00
 draft: false
+
 
 tags: ["Blog", "Hugo"]
 categories: ["How-to"]
 series: ["Hugo Introduction"]
 authors: ["Jhonghee Park"]
+
+toc: true
 ---
 
