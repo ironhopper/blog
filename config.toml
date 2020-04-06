@@ -1,0 +1,10 @@
+baseURL = "https://ironhopper.github.io/"
+languageCode = "en-us"
+title = "Jblog"
+canonifyURLs = true
+theme = "cupper"
+publishDir = "docs"
+
+[params]
+    description = "Documentation for the **Cupper** documentation builder. This documentation is constructed using the builder itself."
+    codePenUser = "Heydon"
